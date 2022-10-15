@@ -1,6 +1,6 @@
+<img align="right" width="380px" height="250px" alt="coding" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif"/>
 <h1 align="center">Hi 👋, I'm Sankarshan Goswami</h1>
 <h3 align="center">A passionate MERN-Stack developer from India</h3>
-<img align="right" alt="coding" src="https://static.wixstatic.com/media/fcf9f1_183add7b26954250a69bc0ac13f8ca50~mv2.gif/v1/fill/w_1600%2Ch_900%2Cal_c%2Cq_90/file.jpg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankarshandev98&label=Profile%20views&color=0e75b6&style=flat" alt="sankarshandev98" /> </p>
 
