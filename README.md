@@ -1,5 +1,5 @@
 <img alt="code" src="https://i.ibb.co/BrPCsst/Hii-I-m-Sankarshan-Goswami.gif"/>
-<h1 align="center">👋 Nice to see you on my github profile</h1>
+<h1 align="center">🙂 Nice to see you on my github profile</h1>
 <h3 align="center">A passionate MERN-Stack developer from India</h3>
 
 <p align="left"> <a href="https://sankarshan-goswami-portfolio.netlify.app/" target="blank"><img align="center" src="https://img.icons8.com/fluency/35/000000/portfolio.png" alt="__sankarshan" /></a> Portfolio</p>
