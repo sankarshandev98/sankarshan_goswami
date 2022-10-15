@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://www.linkedin.com/in/sankarshandev98/" target="blank"><img align="center" src="https://img.icons8.com/fluency/35/000000/linkedin-2.png" alt="__sankarshan" /></a> LinkedIn</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankarshandev98&label=Profile%20views&color=0e75b6&style=flat" alt="sankarshandev98" /> </p>
-<p align="left"> <a href="https://twitter.com/__sankarshan" target="blank"><img src="https://img.shields.io/twitter/follow/__sankarshan?logo=twitter&style=for-the-badge" alt="__sankarshan" /></a> </p>
+<p align="left"> <a href="https://instagram.com/__sankarshan" target="blank"><img src="https://img.shields.io/twitter/follow/__sankarshan?logo=twitter&style=for-the-badge" alt="__sankarshan" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
