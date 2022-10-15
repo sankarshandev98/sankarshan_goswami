@@ -6,9 +6,6 @@
 <p align="left"> <a href="https://drive.google.com/file/d/1zrfttDY-caCFi2uqZVtBAmnbilCuwFz3/view" target="blank"><img align="center" src="https://img.icons8.com/fluency/35/000000/attach-resume-male.png" alt="__sankarshan" /></a> Resume</p>
 <p align="left"> <a href="https://www.linkedin.com/in/sankarshandev98/" target="blank"><img align="center" src="https://img.icons8.com/fluency/35/000000/linkedin-2.png" alt="__sankarshan" /></a> LinkedIn</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sankarshandev98&label=Profile%20views&color=0e75b6&style=flat" alt="sankarshandev98" /> </p>
-<p align="left"> <a href="https://instagram.com/__sankarshan" target="blank"><img src="https://img.shields.io/twitter/follow/__sankarshan?logo=twitter&style=for-the-badge" alt="__sankarshan" /></a> </p>
-
 - 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👯 I’m looking to collaborate on [JioMart](https://strong-truffle-00aad0.netlify.app/)
