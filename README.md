@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sankarshan Goswami</h1>
+<img alt="code" src="https://i.ibb.co/BrPCsst/Hii-I-m-Sankarshan-Goswami.gif"/>
+<h1 align="center">👋 Nice to see you on my github profile</h1>
 <h3 align="center">A passionate MERN-Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankarshandev98&label=Profile%20views&color=0e75b6&style=flat" alt="sankarshandev98" /> </p>
