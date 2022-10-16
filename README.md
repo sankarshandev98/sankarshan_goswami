@@ -2,7 +2,7 @@
 <h1 align="center">🙂 Nice to see you on my github profile</h1>
 <h3 align="center">A passionate MERN-Stack developer from India</h3>
 
-<p align="left"> <a href="https://sankarshan-goswami-portfolio.netlify.app/" target="blank"><img align="center" src="https://img.icons8.com/fluency/35/000000/portfolio.png" alt="__sankarshan" /></a> Portfolio</p>
+<p align="left"> <a href="https://sankarshandev98.github.io/" target="blank"><img align="center" src="https://img.icons8.com/fluency/35/000000/portfolio.png" alt="__sankarshan" /></a> Portfolio</p>
 <p align="left"> <a href="https://drive.google.com/file/d/1zrfttDY-caCFi2uqZVtBAmnbilCuwFz3/view" target="blank"><img align="center" src="https://img.icons8.com/fluency/35/000000/attach-resume-male.png" alt="__sankarshan" /></a> Resume</p>
 <p align="left"> <a href="https://www.linkedin.com/in/sankarshandev98/" target="blank"><img align="center" src="https://img.icons8.com/fluency/35/000000/linkedin-2.png" alt="__sankarshan" /></a> LinkedIn</p>
 
