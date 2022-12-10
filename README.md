@@ -17,6 +17,7 @@
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **gsankar164@gmail.com**
+- ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
 
 - ⚡ Fun fact **I always try to find solutions on Google of any problem that i face in my life, either it's a small problem or big one.**
 <h3 align="left">Connect with me:</h3>
