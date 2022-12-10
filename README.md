@@ -28,6 +28,8 @@
 <a href="https://instagram.com/__sankarshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__sankarshan" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
-[Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
+<p>
+  ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
+</p>
 <p>&nbsp;<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=sankarshandev98&show_icons=true&locale=en" alt="sankarshandev98" /></p>
 <p><img align="right" width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=sankarshandev98&" alt="sankarshandev98" /></p>
