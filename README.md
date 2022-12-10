@@ -17,6 +17,7 @@
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **gsankar164@gmail.com**
+- ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
 
 - ⚡ Fun fact **I always try to find solutions on Google of any problem that i face in my life, either it's a small problem or big one.**
 <h3 align="left">Connect with me:</h3>
@@ -28,8 +29,5 @@
 <a href="https://instagram.com/__sankarshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__sankarshan" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
-<p>
-  ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
-</p>
 <p>&nbsp;<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=sankarshandev98&show_icons=true&locale=en" alt="sankarshandev98" /></p>
 <p><img align="right" width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=sankarshandev98&" alt="sankarshandev98" /></p>
