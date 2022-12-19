@@ -17,14 +17,6 @@
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **gsankar164@gmail.com**
-
-<h2><i>Tech Stack</i></h2>
-
-
-
-
-
-
 - ⚡ Fun fact **I always try to find solutions on Google of any problem that i face in my life, either it's a small problem or big one.**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -57,5 +49,5 @@
 
 
 
-<p>&nbsp;<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=sankarshandev98&show_icons=true&locale=en" alt="sankarshandev98" /></p>
-<p><img align="right" width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=sankarshandev98&" alt="sankarshandev98" /></p>
+<p>&nbsp;<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=sankarshandev98&show_icons=true&locale=en" alt="sankarshandev98" />
+<img align="right" width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=sankarshandev98&" alt="sankarshandev98" /></p>
