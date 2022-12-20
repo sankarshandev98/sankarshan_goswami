@@ -1,7 +1,7 @@
 <img alt="code" src="https://i.ibb.co/BrPCsst/Hii-I-m-Sankarshan-Goswami.gif"/>
 <h1 align="center">🙂 Nice to see you on my github profile</h1>
 <h3 align="center">A passionate MERN-Stack developer from India</h3>
-<a href="https://www.w3schools.com" target="_blank">Visit W3Schools.com!</a>
+<a href="https://www.w3schools.com" target="__blank">Visit W3Schools.com!</a>
 <p>
 <a href="https://sankarshandev98.github.io/" target="_blank"> Portfolio <img align="center" src="https://img.icons8.com/fluency/35/000000/portfolio.png" alt="__sankarshan" /></a>
 <a href="https://drive.google.com/file/d/1ttS8bgkXR67W-vdc9uuoMdsdS5wvrcs5/view?usp=sharing" target="_blank"> Resume<img align="center" src="https://img.icons8.com/fluency/35/000000/attach-resume-male.png" alt="__sankarshan" /></a>
