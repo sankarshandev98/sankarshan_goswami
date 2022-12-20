@@ -3,6 +3,7 @@
 <h3 align="center">A passionate MERN-Stack developer from India</h3>
 
 <p>
+<a href="https://www.w3schools.com" target="_blank">Visit W3Schools.com!</a>
 <a href="https://sankarshandev98.github.io/" target="_blank"> Portfolio <img align="center" src="https://img.icons8.com/fluency/35/000000/portfolio.png" alt="__sankarshan" /></a>
 <a href="https://drive.google.com/file/d/1ttS8bgkXR67W-vdc9uuoMdsdS5wvrcs5/view?usp=sharing" target="_blank"> Resume<img align="center" src="https://img.icons8.com/fluency/35/000000/attach-resume-male.png" alt="__sankarshan" /></a>
 <a href="https://www.linkedin.com/in/sankarshandev98/" target="_blank"> LinkedIn<img align="center" src="https://img.icons8.com/fluency/35/000000/linkedin-2.png" alt="__sankarshan" /></a>
