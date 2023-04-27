@@ -13,8 +13,6 @@
 
 - 🤝 I’m looking for help with [KFC](https://symphonious-rolypoly-b8a660.netlify.app/index.html)
 
-- 📝 I regularly write articles on [treendymedia.com](treendymedia.com)
-
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **gsankar164@gmail.com**
